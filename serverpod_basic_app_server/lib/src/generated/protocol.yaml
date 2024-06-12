@@ -1,0 +1,5 @@
+posts:
+  - createPosts:
+  - deletePosts:
+  - getPostsList:
+  - updatePost:

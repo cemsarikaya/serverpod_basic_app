@@ -1,0 +1,7 @@
+class: Posts
+table: posts
+fields:
+    title: String
+    description: String
+    createdAt: DateTime
+    updatedAt: DateTime
