@@ -52,7 +52,7 @@ flutter run
 
 ## 📖 Kullanım
 
-Bu uygulama, Serverpod'un temel özelliklerini gösteren bir örnek sunar. İstemci uygulaması, sunucuya istekler gönderir ve sunucudan yanıtlar alır. Daha fazla bilgi için [Serverpod belgelerine](https://serverpod.dev/docs/getting-started) göz atabilirsiniz.
+Bu uygulama, Serverpod'un temel özelliklerini gösteren bir örnek sunar. İstemci uygulaması, sunucuya istekler gönderir ve sunucudan yanıtlar alır. Daha fazla bilgi için [Serverpod belgelerine](https://docs.serverpod.dev/get-started) göz atabilirsiniz.
 
 ## 🤝 Katkıda Bulunma
 
